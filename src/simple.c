@@ -1,4 +1,4 @@
-#include "simple.h"
+#include "../lib/simple.h"
 
 void simple_ijk(double *a, double *b, double *c, int n)
 {

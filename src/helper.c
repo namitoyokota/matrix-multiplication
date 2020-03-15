@@ -1,4 +1,4 @@
-#include "helper.h"
+#include "../lib/helper.h"
 
 double getRandom()
 {

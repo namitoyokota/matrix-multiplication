@@ -1,4 +1,4 @@
-#include "blocked.h"
+#include "../lib/blocked.h"
 
 void blocked_ijk(double *a, double *b, double *c, int n, int B)
 {

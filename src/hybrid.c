@@ -1,4 +1,4 @@
-#include "hybrid.h"
+#include "../lib/hybrid.h"
 
 void hybrid_ijk(double *a, double *b, double *c, int n, int B)
 {

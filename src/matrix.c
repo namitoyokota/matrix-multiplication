@@ -1,7 +1,7 @@
-#include "helper.h"
-#include "simple.h"
-#include "blocked.h"
-#include "hybrid.h"
+#include "../lib/helper.h"
+#include "../lib/simple.h"
+#include "../lib/blocked.h"
+#include "../lib/hybrid.h"
 
 int main(int agrc, char *argv[])
 {
