@@ -8,5 +8,9 @@
 
 double getRandom();
 void setMatrix(int n, double *a);
+int optionOne();
+int optionTwo();
+int optionN();
+int optionB();
 
 #endif
