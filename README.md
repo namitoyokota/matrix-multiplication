@@ -6,9 +6,10 @@ performance optimization via register use and cache reuse in dynamically allocat
 ## Instruction
 | **Command**                        | **Description**                      |
 |------------------------------------|--------------------------------------|
-| `make`                             | compile and execute cli              |
-| `make valgrind`                    | cun valgrind for memory management   |
+| `make`                             | compile                              |
 | `make clean`                       | remove outputted files               |
+| `make test`                        | execute cli                          |
+| `make valgrind`                    | cun valgrind for memory management   |
 
 <hr>
 <p align="center">&copy; Namito Yokota</p>
