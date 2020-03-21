@@ -3,10 +3,10 @@
 > performance optimization via register use and cache reuse in dynamically allocated matrix multiplication
 
 ## Instruction
-- `make` compile all source files
-- `make clean` remove outputted files
-- `make test` execute the cli
-- `make valgrind` run valgrind
+- `make` compiles all source files
+- `make clean` removes outputted files
+- `make test` executes the cli
+- `make valgrind` runs valgrind
 
 ## Course Information
 <pre align="center">
