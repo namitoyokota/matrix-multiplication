@@ -25,7 +25,4 @@
 
 ## Course Information
 
-<pre align="center">
-CS 481 - High Performance Computing
-Instructor: Dingwen Tao
-</pre>
+CS 481 - High Performance Computing, Instructor: Dingwen Tao
